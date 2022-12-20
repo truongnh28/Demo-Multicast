@@ -1,3 +1,3 @@
 # Demo-Multicast
 
-This is readme.
+This is a visualization of Multicast.
